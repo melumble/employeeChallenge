@@ -1,0 +1,23 @@
+# Gradle build folder
+/build/
+/.gradle/
+
+# Gradle Wrapper jar files
+/gradle/wrapper/gradle-wrapper.jar
+
+# Java class files
+*.class
+
+# MacOS files
+.DS_Store
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+*.swp
+*.swo
+
+# Generated Spring Boot files
+target/
