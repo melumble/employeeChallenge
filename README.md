@@ -1,4 +1,4 @@
-# ReliaQuest's Entry-Level Java Challenge
+# Entry-Level Java Challenge
 
 Please keep the following in mind while working on this challenge:
 * Code implementations will not be graded for **correctness** but rather on practicality
